@@ -14,7 +14,7 @@ const config = {
   url: 'https://domenech-tech.github.io',
   baseUrl: '/plcLibDoc/',
   organizationName: 'domenech-tech', // Usually your GitHub org/user name.
-  projectName: 'domenech-tech.github.io', // Usually your repo name.
+  projectName: 'plcLibDoc', // Usually your repo name.
   deploymentBranch:'deployment',
   trailingSlash: false,
   onBrokenLinks:'ignore',
