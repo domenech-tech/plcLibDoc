@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkplc_lib_docusaurus_git=self.webpackChunkplc_lib_docusaurus_git||[]).push([[603],{7213:l=>{l.exports=JSON.parse('{"permalink":"/plcLibDoc/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
