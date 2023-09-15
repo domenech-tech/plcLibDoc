@@ -1,5 +1,8 @@
 # Dependencies
 /node_modules
+.yarn
+# yarn shit
+.pnp.*
 
 # Production
 /build
