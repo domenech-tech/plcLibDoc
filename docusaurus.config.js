@@ -40,7 +40,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-          sidebarCollapsible:false
+          sidebarCollapsible:false,
+          routeBasePath:'/'
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,13 +69,7 @@ const config = {
         },
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/domenech-tech/plcLibDoc/tree/deployment',
             label: 'GitHub',
             position: 'right',
           },

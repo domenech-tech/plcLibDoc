@@ -1,5 +1,6 @@
 ---
 sidebar_position: "1"
+slug: /
 ---
 ## Programming style guide
 
